@@ -4,19 +4,16 @@ class Solution {
         int f=0;
         while(f<num.length){
             if(num[c]==val){
-                if(num[f]==val){
-                    f++;
-                }else{
+                if(num[f]!=val){
                     num[c]=num[f];
                     num[f]=val;
-                    f++;
                     c++;
                 }
             }
             else{
                 c++;
-                f++;
             }
+                f++;
         }
         return c;
     }
