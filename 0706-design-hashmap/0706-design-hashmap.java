@@ -1,22 +1,22 @@
 class MyHashMap {
-        private Integer arr[][] =new Integer[1000001][1];
+        private Integer arr[] =new Integer[1000001];
     public MyHashMap() {
         arr=this.arr;
     }
     
     public void put(int key, int value) {
-        arr[key][0]=value;
+        arr[key]=value;
     }
     
     public int get(int key) {
-        if(arr[key][0]!=null){
-            return arr[key][0];
+        if(arr[key]!=null){
+            return arr[key];
         }
         return -1;
     }
     
     public void remove(int key) {
-        arr[key][0]=null;
+        arr[key]=null;
     }
 }
 
