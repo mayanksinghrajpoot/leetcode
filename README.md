@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
