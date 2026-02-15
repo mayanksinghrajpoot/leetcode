@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0509-fibonacci-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0344-reverse-string) |
 ## Design
 |  |
@@ -80,7 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0371-sum-of-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
