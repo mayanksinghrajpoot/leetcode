@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0070-climbing-stairs) |
+| [0371-sum-of-two-integers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0706-design-hashmap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
