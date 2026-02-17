@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0509-fibonacci-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0169-majority-element) |
 | [0706-design-hashmap](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0706-design-hashmap) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
 | ------- |
