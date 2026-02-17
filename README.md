@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1002-find-common-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
