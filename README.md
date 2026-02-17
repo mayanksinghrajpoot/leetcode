@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0169-majority-element) |
 | [0706-design-hashmap](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0706-design-hashmap) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Linked List
 |  |
 | ------- |
