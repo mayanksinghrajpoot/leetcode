@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0189-rotate-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
