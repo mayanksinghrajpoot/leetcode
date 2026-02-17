@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0706-design-hashmap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0706-design-hashmap) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1768-merge-strings-alternately](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3340-check-balanced-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3340-check-balanced-string) |
 ## Design
 |  |
