@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0189-rotate-array) |
+| [0697-degree-of-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0706-design-hashmap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0169-majority-element) |
+| [0697-degree-of-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0706-design-hashmap) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
