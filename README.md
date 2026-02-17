@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0706-design-hashmap) |
+| [0746-min-cost-climbing-stairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1002-find-common-characters](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1002-find-common-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
