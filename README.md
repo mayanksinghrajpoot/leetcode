@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1002-find-common-characters) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1929-concatenation-of-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## String Matching
 |  |
