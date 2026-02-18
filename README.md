@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0977-squares-of-a-sorted-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1002-find-common-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
