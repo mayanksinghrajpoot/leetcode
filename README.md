@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
+| [2965-find-missing-and-repeated-values](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3697-compute-decimal-representation](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3697-compute-decimal-representation) |
 ## Binary Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3697-compute-decimal-representation](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3697-compute-decimal-representation) |
 ## Recursion
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
+| [2965-find-missing-and-repeated-values](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Interactive
 |  |
 | ------- |
