@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2278-percentage-of-letter-in-string) |
+| [2418-sort-the-people](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3340-check-balanced-string) |
 ## Design
