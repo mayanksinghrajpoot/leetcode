@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1002-find-common-characters) |
 | [1768-merge-strings-alternately](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2278-percentage-of-letter-in-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [3110-score-of-a-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3340-check-balanced-string) |
 ## Design
