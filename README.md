@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3110-score-of-a-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3340-check-balanced-string) |
+| [3707-equal-score-substrings](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3707-equal-score-substrings) |
 ## Design
 |  |
 | ------- |
@@ -299,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1952-three-divisors) |
+## Prefix Sum
+|  |
+| ------- |
+| [3707-equal-score-substrings](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3707-equal-score-substrings) |
 <!---LeetCode Topics End-->
