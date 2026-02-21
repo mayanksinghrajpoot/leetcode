@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2278-percentage-of-letter-in-string) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0495-teemo-attacking) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1929-concatenation-of-array) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2460-apply-operations-to-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## String Matching
