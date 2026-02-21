@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2418-sort-the-people) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## String Matching
