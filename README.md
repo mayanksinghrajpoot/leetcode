@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2460-apply-operations-to-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## String Matching
 |  |
 | ------- |
