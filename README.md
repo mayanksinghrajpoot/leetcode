@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0495-teemo-attacking) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1929-concatenation-of-array) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2413-smallest-even-multiple) |
