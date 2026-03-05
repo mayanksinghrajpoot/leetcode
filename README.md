@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0495-teemo-attacking) |
+| [0542-01-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0605-can-place-flowers) |
 | [0697-degree-of-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0704-binary-search) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0542-01-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Interactive
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0542-01-matrix) |
 ## Queue
 |  |
 | ------- |
