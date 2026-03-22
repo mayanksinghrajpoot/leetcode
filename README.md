@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0896-monotonic-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0542-01-matrix) |
+| [0994-rotting-oranges](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Interactive
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0542-01-matrix) |
+| [0994-rotting-oranges](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0994-rotting-oranges) |
 ## Queue
 |  |
 | ------- |
