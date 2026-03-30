@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0495-teemo-attacking) |
 | [0542-01-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0542-01-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2418-sort-the-people](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2418-sort-the-people) |
