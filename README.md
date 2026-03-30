@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0994-rotting-oranges) |
 ## Queue
 |  |
@@ -364,9 +366,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
