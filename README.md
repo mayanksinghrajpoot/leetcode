@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Two Pointers
 |  |
 | ------- |
