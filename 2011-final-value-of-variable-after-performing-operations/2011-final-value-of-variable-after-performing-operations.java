@@ -5,13 +5,13 @@ class Solution {
             if(op[i].equals("++X")){
                 ++x;
             }
-            if(op[i].equals("X++")){
+            else if(op[i].equals("X++")){
                 x++;
             }
-            if(op[i].equals("--X")){
+            else if(op[i].equals("--X")){
                 --x;
             }
-            if(op[i].equals("X--")){
+            else if(op[i].equals("X--")){
                 x--;
             }
         }
