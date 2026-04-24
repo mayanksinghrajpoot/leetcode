@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0495-teemo-attacking) |
 | [0542-01-matrix](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0542-01-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2418-sort-the-people](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2418-sort-the-people) |
