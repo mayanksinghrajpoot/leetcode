@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2615-sum-of-distances](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
+| [2615-sum-of-distances](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2615-sum-of-distances) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2615-sum-of-distances) |
 | [3707-equal-score-substrings](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3707-equal-score-substrings) |
 ## Union-Find
 |  |
