@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2121-intervals-between-identical-elements](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2418-sort-the-people) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1002-find-common-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mayanksinghrajpoot/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2121-intervals-between-identical-elements](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2540-minimum-common-value) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2121-intervals-between-identical-elements](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/mayanksinghrajpoot/leetcode/tree/master/2615-sum-of-distances) |
 | [3707-equal-score-substrings](https://github.com/mayanksinghrajpoot/leetcode/tree/master/3707-equal-score-substrings) |
 ## Union-Find
